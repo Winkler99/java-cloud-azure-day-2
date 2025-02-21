@@ -77,3 +77,11 @@ The steps to work on today are as follows:
 
 Screenshot each stage and add them into here so that you can evidence completing the steps necessary
 
+# Backend
+![alt text](image-1.png)
+![alt text](image.png)
+![alt text](image-2.png)
+# Frontend
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
